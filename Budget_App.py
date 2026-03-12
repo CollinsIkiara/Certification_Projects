@@ -105,3 +105,4 @@ print() # Blank line for better readability
 
 print(create_spend_chart([food, clothing, auto]))
 
+# Complete!
